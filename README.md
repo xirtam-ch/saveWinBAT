@@ -14,4 +14,5 @@ md5 [file]| 显示传入文件的md5
 tosh | 跳转到本项目路径，我的在e盘
 upgradeFrida | 升级fridaTool
 
-
+# 其他建议
+- 配色可以使用微软的https://github.com/microsoft/terminal
