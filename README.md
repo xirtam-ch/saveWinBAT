@@ -1,3 +1,4 @@
+![image](https://github.com/xirtam-ch/saveWinBAT/releases/download/pics/1.gif)
 # 食用方法
 - 将本项目加进windows的path环境变量
 - 装一个Cygwin以便能自带一部分如pwd ls等命令
