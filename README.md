@@ -10,7 +10,7 @@ hei| 用adb把手机相册备份到电脑
 list | 展示当前路径下的文件树
 ll | 列出文件详细信息，等于ls -l，依赖cygwin
 md5 [file]| 显示传入文件的md5
-acat [file]| adb shell cat查看手机伤的文件
+acat [file]| adb shell cat查看手机上的文件
 sha1 [file]| 计算文件的sha1
 sha256 [file]| 计算文件的sha256
 fs | 打开finalspeed
